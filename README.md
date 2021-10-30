@@ -1,7 +1,7 @@
-# cs-horiseon-code-refactor
+# CS-horiseon-code-refactor
 
-Horiseon code refactor project
+# Title {Horiseon code refactor project}
 
-## Title
+## Our Mission:
 
-dksamksias
+Here at Horiseon we strive to be the best in Search Engine Optimization, Online Reputation Management, and Social Media Marketing! Bring your designs into the 21st century with style and efficiency working hand-in-hand to provide the best web experience for your consumers.
