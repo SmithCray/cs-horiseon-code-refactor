@@ -20,8 +20,16 @@ GitHub: https://github.com/SmithCray/cs-horiseon-code-refactor
 
 #
 
-![Horiseon Webpage P1](assets/SNIPPETS.PNG)
-![Horiseon Webpage P2](assets/Capture.PNG)
+![Horiseon Webpage P1](assets/images/SNIPPETS.PNG)
+![Horiseon Webpage P2](assets/images/Capture.PNG)
+
+### Author: **Cray Smith**
+
+<img src="assets\images\p2cray.PNG" alt="Collin GitHub" width="150px">
+
+GitHub Link: https://github.com/SmithCray
+
+<br>
 
 Copyright (c) [2021] [Cray Smith]
 
