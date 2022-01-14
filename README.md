@@ -1,4 +1,8 @@
-# Title: CS-horiseon-code-refactor {Horiseon code refactor project}
+# Title: CS-horiseon-code-refactor
+
+### {Horiseon code refactor project}
+
+<br>
 
 ## Our Mission:
 
