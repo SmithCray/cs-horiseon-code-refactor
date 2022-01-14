@@ -20,8 +20,8 @@ GitHub: https://github.com/SmithCray/cs-horiseon-code-refactor
 
 #
 
-![Horiseon Webpage P1](/assets\SNIPPETS.PNG)
-![Horiseon Webpage P2](/assets\Capture.PNG)
+![Horiseon Webpage P1](assets/SNIPPETS.PNG)
+![Horiseon Webpage P2](assets/Capture.PNG)
 
 Copyright (c) [2021] [Cray Smith]
 
